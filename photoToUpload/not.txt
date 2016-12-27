@@ -1,0 +1,1 @@
+fotograf upload ederken pathi photoToUpload/photo.png seklinde verilecek
